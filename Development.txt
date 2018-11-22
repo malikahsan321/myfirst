@@ -6,13 +6,20 @@
  HTML5
  CSS3
  Bootstrap4
-
+ 
+ 
+Java Script
+Jquery
 
 
 
 Thank you..
 
 
+Done my changes
+
+
 
 
 Final Copy.
+
